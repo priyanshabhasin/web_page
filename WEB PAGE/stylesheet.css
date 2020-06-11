@@ -65,7 +65,6 @@ body {
     padding-top: 100px;
   }
   
-  /* Add CSS for <input> and <textarea> tags */
   input,textarea {
      width: 400px;
      margin-top:10px;
@@ -76,7 +75,6 @@ body {
      
   }
   
-  /* Add CSS for contact-submit */
    .contact-submit{
      background-color :  #dee7ec;
      color : #889eab;
